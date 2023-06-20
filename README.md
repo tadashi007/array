@@ -7,14 +7,7 @@ This repository provides examples and explanations of loops and functions in the
 - [Introduction](#introduction)
 - [Loops](#loops)
   - [For Loop](#for-loop)
-  - [While Loop](#while-loop)
-  - [Do-While Loop](#do-while-loop)
-- [Functions](#functions)
-  - [Function Declaration](#function-declaration)
-  - [Function Modifiers](#function-modifiers)
-  - [Function Visibility](#function-visibility)
-- [Contributing](#contributing)
-- [License](#license)
+  -
 
 ## Introduction
 
