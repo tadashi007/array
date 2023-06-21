@@ -27,3 +27,11 @@ Example usage:
 for (uint i = 0; i < 10; i++) {
     // Code to be executed in each iteration
 }
+
+## Author
+@abhijithvs
+Twitter - https://twitter.com/iamtadashibitch
+
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
